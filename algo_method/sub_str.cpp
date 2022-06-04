@@ -1,4 +1,4 @@
-// S.substr(l,r): 文字列Sのl文字目からl+r-1文字目までの部分文字列を返す関数
+// S.substr(l,r): 文字列Sのl文字目からr文字の部分文字列を返す関数
 
 #include <iostream>
 using namespace std;
